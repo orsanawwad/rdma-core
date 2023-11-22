@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-echo "This is a test update 3"
+echo "This is a test update 4"
 
 SRCDIR=`dirname $0`
 BUILDDIR="$SRCDIR/build"

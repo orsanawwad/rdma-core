@@ -1,6 +1,8 @@
 #!/bin/bash
 set -e
 
+echo "This is a test"
+
 SRCDIR=`dirname $0`
 BUILDDIR="$SRCDIR/build"
 
